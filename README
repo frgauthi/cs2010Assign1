@@ -1,1 +1,17 @@
-This is my README file
+-This is the README for Frankie Gauthier's(4213091)  Cs2010 Assignment 1.
+-This program provides compiles a dictionary of words that are read from a file and provides frequency analysis.
+-The dictionary has maximum capacity of 10 words each word must be 20 characters or less..
+
+Compile and Run
+---------------
+-to compile the program make sure you are in the cs2010Assign1 directory and type " make "
+-to run the program type ./dictionary < data.dat
+
+-this runs the program with the sample file, if you wish to use your own just substitute data.dat for your preferred 
+file.
+
+
+
+
+
+
