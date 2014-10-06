@@ -4,14 +4,16 @@
 
 Compile and Run
 ---------------
--to compile the program make sure you are in the cs2010Assign1 directory and type " make "
--to run the program type ./dictionary < data.dat
+-To compile the program make sure you are in the cs2010Assign1 directory and type " make "
+-To run the program type ./dictionary < data.dat
 
--this runs the program with the sample file, if you wish to use your own just substitute data.dat for your preferred 
-file.
-
-
+-This runs the program with the sample file, if you wish to use your own just substitute data.dat 
+ for your preferred file.
 
 
+GITHUB Url
+----------
+
+https://github.com/frgauthi/cs2010Assign1.git
 
 
